@@ -1,11 +1,10 @@
-package c
+package i
 
 import (
 	"fmt"
-	"import/e"
 )
 
-var name = e.Cname()
+var name = "i"
 
 func init() {
 	fmt.Println(name)

@@ -10,3 +10,7 @@ var name = "e"
 func init() {
 	fmt.Println(name)
 }
+
+func Cname() string {
+	return "c"
+}
