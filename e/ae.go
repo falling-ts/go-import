@@ -5,8 +5,11 @@ import (
 	_ "import/i"
 )
 
-var name2 = "ae"
+var name = "ae"
+
+var Test = test
 
 func init() {
-	fmt.Println(name2)
+	fmt.Println(name)
+	fmt.Println(Test)
 }
