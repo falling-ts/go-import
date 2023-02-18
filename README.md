@@ -52,3 +52,7 @@ func init() {
 因此 init 执行顺序为
 
 > f->e->c->g->d->a->h->b->main->exec main
+
+```shell
+注: 修改导入顺序后, init 执行顺序也跟着变化了
+```
