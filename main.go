@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	_ "import/a"
+	aa "import/a"
 	_ "import/b"
 )
 
@@ -10,6 +10,7 @@ var name = "main"
 
 func init() {
 	fmt.Println(name)
+	aa.Test()
 }
 
 func main() {
