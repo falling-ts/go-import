@@ -2,7 +2,7 @@ package c
 
 import (
 	"fmt"
-	"import/e"
+	"github.com/falling-ts/import/e"
 )
 
 var name = e.Cname()

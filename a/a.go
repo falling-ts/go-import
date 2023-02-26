@@ -2,9 +2,9 @@ package aa
 
 import (
 	"fmt"
-	jj "import/a/j"
-	_ "import/c"
-	_ "import/d"
+	jj "github.com/falling-ts/import/a/j"
+	_ "github.com/falling-ts/import/c"
+	_ "github.com/falling-ts/import/d"
 )
 
 var name = "a"

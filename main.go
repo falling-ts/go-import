@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
-	aa "import/a"
-	_ "import/b"
+	aa "github.com/falling-ts/import/a"
+	_ "github.com/falling-ts/import/b"
+	_ "github.com/falling-ts/import/c"
+	_ "github.com/falling-ts/import/h"
 )
 
 var name = "main"

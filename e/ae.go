@@ -2,7 +2,7 @@ package e
 
 import (
 	"fmt"
-	_ "import/i"
+	_ "github.com/falling-ts/import/i"
 )
 
 var name = "ae"

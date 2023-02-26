@@ -1,8 +1,6 @@
 package i
 
-import (
-	"fmt"
-)
+import "fmt"
 
 var name = "i"
 

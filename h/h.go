@@ -2,7 +2,7 @@ package h
 
 import "fmt"
 
-var name = "h"
+var name = "h--------"
 
 func init() {
 	fmt.Println(name)

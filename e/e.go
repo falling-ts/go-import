@@ -2,7 +2,7 @@ package e
 
 import (
 	"fmt"
-	_ "import/f"
+	_ "github.com/falling-ts/import/f"
 )
 
 var name5 = "e"
@@ -12,5 +12,5 @@ func init() {
 }
 
 func Cname() string {
-	return "c"
+	return "c-----------"
 }

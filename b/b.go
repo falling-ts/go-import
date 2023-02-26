@@ -2,7 +2,8 @@ package b
 
 import (
 	"fmt"
-	_ "import/h"
+	_ "github.com/falling-ts/import/c"
+	_ "github.com/falling-ts/import/h"
 )
 
 var name = "b"
