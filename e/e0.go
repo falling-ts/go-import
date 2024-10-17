@@ -5,8 +5,8 @@ import (
 	_ "github.com/falling-ts/import/f"
 )
 
-var name7 = "ze"
+var name6 = "e/e0"
 
 func init() {
-	fmt.Println(name7)
+	fmt.Println(name6)
 }

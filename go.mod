@@ -1,3 +1,3 @@
 module github.com/falling-ts/import
 
-go 1.20
+go 1.23

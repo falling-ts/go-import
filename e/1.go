@@ -5,7 +5,7 @@ import (
 	_ "github.com/falling-ts/import/i"
 )
 
-var name = "ae"
+var name = "e/1"
 
 var Test = test
 

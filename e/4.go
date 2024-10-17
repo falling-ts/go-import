@@ -4,8 +4,8 @@ import (
 	"fmt"
 )
 
-var name3 = "ce"
+var name4 = "e/4"
 
 func init() {
-	fmt.Println(name3)
+	fmt.Println(name4)
 }

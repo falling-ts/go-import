@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-var name2 = "be"
+var name2 = "e/2"
 
 var test = test1
 var test1 = "test"
